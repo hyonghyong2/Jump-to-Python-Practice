@@ -75,3 +75,12 @@
 # import datetime
 # x=datetime.datetime("%y/%m/%d %H:%M:%S")
 # print(x)
+
+#Q13. 로또 숫자 추출하기
+# import random
+# list=[]
+# while len(list)<=6:
+#     i=random.randint(1,45)
+#     list.append(i)
+# list.sort()
+# print(list)
